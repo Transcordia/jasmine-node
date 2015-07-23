@@ -1,6 +1,12 @@
 jasmine-node
 ======
 
+> Fork!!
+> This fork modifies the `watch` parameter to monitor all files in specified folders.
+> The original code searches for only modified JS files in these folders, and coffee files if the
+> coffee extension is used.
+
+
 [![Build Status](https://secure.travis-ci.org/spaghetticode/jasmine-node.png)](http://travis-ci.org/spaghetticode/jasmine-node)
 
 This node.js module makes the wonderful [Pivotal Lab's jasmine](http://github.com/pivotal/jasmine)
